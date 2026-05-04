@@ -1,30 +1,31 @@
-# Hi, I'm Himanshu 👋
+# 👋 Hey, I'm Himanshu
 
-🚀 Aspiring AI/ML Engineer & Backend Developer
-💡 Interested in Computer Vision, Audio AI, and Intelligent Systems
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI%20ML%20Enthusiast;Backend%20Developer;Building%20Real%20Projects&center=true&width=500&height=50)
 
-## 🔧 Tech Stack
+🚀 Aspiring AI/ML Engineer | Backend Developer  
+💡 Exploring Computer Vision, Audio AI & Intelligent Systems.
 
-* **Languages:** Python, C++
-* **Backend:** Django, Node.js
-* **AI/ML:** NumPy, Pandas, OpenCV (learning)
-* **Tools:** Git, GitHub, VS Code
+## 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryV36&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harryV36&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryV36&layout=compact&theme=tokyonight)
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 📈 Currently Learning
+- Machine Learning fundamentals  
+- System Design basics  
+- Building AI-powered APIs
 
-* Machine Learning fundamentals
-* System Design basics
-* Building AI-powered APIs
+## 🌐 Connect With Me
+- LinkedIn: linkedin.com/in/himanshu-verma-dev26
 
-## 🎯 Goals (2026)
-
-* Build real-world AI projects
-* Contribute to open source
-* Get an internship in AI/Backend
-
-## 🤝 Connect with me
-
-* LinkedIn: linkedin.com/in/himanshu-verma-dev26
-
-⭐ *Always building, always learning*
-
+- ![Profile Views](https://komarev.com/ghpvc/?username=harryV36&color=blue)
